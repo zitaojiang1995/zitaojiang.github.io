@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me - Zitao JIANG"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,14 +14,19 @@ Research Interests
 ======
 My research interest ranges from indoor ventilation to urban scale wind environment and urban ventilation.
 
-Getting started
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+&bull Oct. 2021-Sep. 2024, PhD
+[Osaka University](https://www.osaka-u.ac.jp/en) Suita, Osaka, Japan
+
+&bull Aug. 2019-Jan. 2021, M.Sc. in Sustainble Design
+[The University of Sydney](https://www.sydney.edu.au/) Sydney, New South Wales, Australia
+
+&bull Oct. 2014-Jun. 2019, B.E. in Architecutre
+[China University of Mining and Technology](https://global.cumt.edu.cn/) Xuzhou, Jiangsu Province, China
+
+
+
 
 Site-wide configuration
 ------
