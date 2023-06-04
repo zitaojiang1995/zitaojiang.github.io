@@ -49,6 +49,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Activity
+======
+Associate member of Architectural Institute of Japan, Since 2021
+Associate member of The Society of Heating, Air-Conditioning and Sanitary Engineers of Japan, Since 2021
+
 Talks
 ======
   <ul>{% for post in site.talks %}
