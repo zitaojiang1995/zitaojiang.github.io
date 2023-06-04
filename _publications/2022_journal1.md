@@ -1,8 +1,8 @@
 ---
 title: "Validity of Orifice equation and impact of building parameters on wind-induced natural ventilation rates with minute mean wind pressure difference"
-collection: Building and Environment
+collection: publications
 permalink: /publication/2022_journal1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 
 date: 2022-07-01
 venue: 'Building and Environment'
 paperurl: 'https://doi.org/10.1016/j.buildenv.2022.109248'
