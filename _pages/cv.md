@@ -9,33 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV](http://zitaojiang.github.io/files/CV_Zitao_Jiang_202306.pdf)
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- Oct. 2021-Sep. 2024(Expected), Ph.D. in built environment <br>
+[Osaka University](https://www.osaka-u.ac.jp/en) Osaka, Japan
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- Dec. 2022-Feb. 2023, Exchange student <br>
+[University of Gävle](https://www.hig.se/Ext/En/University-of-Gavle.html) Gävle, Sweden
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Aug. 2019-Jan. 2021, Master of Architectural Science(Sustainble Design)<br>
+[The University of Sydney](https://www.sydney.edu.au/) Sydney, Australia 
+
+- Oct. 2014-Jun. 2019, Bachelor of Architecutre<br>
+[China University of Mining and Technology](https://global.cumt.edu.cn/) Xuzhou, China
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Wind tunnel experiment
+* Particle Image Velocimetry
+* Particle Tracking Velocimetry
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Compuatational Fluid Dynamics (Ansys Fluent, OpenFOAM)
+* Rhihno and Grasshopper
+* Energyplus
 
+Experience
+======
+- Dec. 2022-Feb. 2023, Exchange student <br>, Collobration research with Mats Sandberg
+[University of Gävle](https://www.hig.se/Ext/En/University-of-Gavle.html) Gävle, Sweden
+
+- Aug. 2017-Dec. 2017, Exchange student<br>, Architecture
+[The University of Western Australia](https://www.uwa.edu.au/) Perth, Australia
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +61,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

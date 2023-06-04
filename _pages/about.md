@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me - Zitao JIANG"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,18 +16,18 @@ My research interest ranges from indoor ventilation to urban scale wind environm
 
 Education
 ======
-· Oct. 2021-Sep. 2024, Ph.D. in built environment <br>
-[Osaka University](https://www.osaka-u.ac.jp/en) Suita, Osaka Prepecture, Japan
+- Oct. 2021-Sep. 2024, Ph.D(Expected). in built environment <br>
+[Osaka University](https://www.osaka-u.ac.jp/en) Osaka, Japan
 
-· Dec. 2022-Feb. 2023, Exchange student <br>
-[University of Gävle](https://www.hig.se/Ext/En/University-of-Gavle.html) Gävle, Gävleborg County, Sweden
+- Dec. 2022-Feb. 2023, Exchange student <br>
+[University of Gävle](https://www.hig.se/Ext/En/University-of-Gavle.html) Gävle, Sweden
 
-· Aug. 2019-Jan. 2021, Master of Architectural Science(Sustainble Design)<br>
-[The University of Sydney](https://www.sydney.edu.au/) Sydney, New South Wales, Australia 
+- Aug. 2019-Jan. 2021, Master of Architectural Science(Sustainble Design)<br>
+[The University of Sydney](https://www.sydney.edu.au/) Sydney, Australia 
 
-· Oct. 2014-Jun. 2019, Bachelor of Architecutre<br>
-[China University of Mining and Technology](https://global.cumt.edu.cn/) Xuzhou, Jiangsu Province, China
+- Oct. 2014-Jun. 2019, Bachelor of Architecutre<br>
+[China University of Mining and Technology](https://global.cumt.edu.cn/) Xuzhou, China
 
-· Aug. 2017-Dec. 2017, Exchange student<br>
-[The University of Western Australia](https://www.uwa.edu.au/) Perth, Western Australia, Australia
+- Aug. 2017-Dec. 2017, Exchange student<br>
+[The University of Western Australia](https://www.uwa.edu.au/) Perth, Australia
 
