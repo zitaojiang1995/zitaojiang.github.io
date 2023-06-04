@@ -16,19 +16,18 @@ My research interest ranges from indoor ventilation to urban scale wind environm
 
 Education
 ======
-<ul>
-<li> Oct. 2021-Sep. 2024, Ph.D. in built environment <br>
-[Osaka University](https://www.osaka-u.ac.jp/en) Suita, Osaka Prepecture, Japan </li>
+· Oct. 2021-Sep. 2024, Ph.D. in built environment <br>
+[Osaka University](https://www.osaka-u.ac.jp/en) Suita, Osaka Prepecture, Japan
 
-<li> Dec. 2022-Feb. 2023, Exchange student <br>
-[University of Gävle](https://www.hig.se/Ext/En/University-of-Gavle.html) Gävle, Gävleborg County, Sweden </li>
+· Dec. 2022-Feb. 2023, Exchange student <br>
+[University of Gävle](https://www.hig.se/Ext/En/University-of-Gavle.html) Gävle, Gävleborg County, Sweden
 
-<li> Aug. 2019-Jan. 2021, Master of Architectural Science(Sustainble Design)<br>
-[The University of Sydney](https://www.sydney.edu.au/) Sydney, New South Wales, Australia </li>
+· Aug. 2019-Jan. 2021, Master of Architectural Science(Sustainble Design)<br>
+[The University of Sydney](https://www.sydney.edu.au/) Sydney, New South Wales, Australia 
 
-<li> Oct. 2014-Jun. 2019, Bachelor of Architecutre<br>
-[China University of Mining and Technology](https://global.cumt.edu.cn/) Xuzhou, Jiangsu Province, China </li>
+· Oct. 2014-Jun. 2019, Bachelor of Architecutre<br>
+[China University of Mining and Technology](https://global.cumt.edu.cn/) Xuzhou, Jiangsu Province, China
 
-<li>Aug. 2017-Dec. 2017, Exchange student<br>
-[The University of Western Australia] (https://www.uwa.edu.au/) Perth, Western Australia, Australia </li>
+· Aug. 2017-Dec. 2017, Exchange student<br>
+[The University of Western Australia](https://www.uwa.edu.au/) Perth, Western Australia, Australia
 
