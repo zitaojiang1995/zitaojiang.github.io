@@ -27,9 +27,11 @@ Education
 
 Academic societies
 ======
-[Architectural Institute of Japan](http://www.iis.u-tokyo.ac.jp/~kkmt/profile.html)
-[The Society of Heating, Air-Conditioning and Sanitary Engineers of Japan](http://www.shasej.org/)
-[Japan Association for Wind Engineering](https://www.jawe.jp/en/)
+- [Architectural Institute of Japan](http://www.iis.u-tokyo.ac.jp/~kkmt/profile.html)
+
+- [The Society of Heating, Air-Conditioning and Sanitary Engineers of Japan](http://www.shasej.org/)
+
+- [Japan Association for Wind Engineering](https://www.jawe.jp/en/)
 
 Contact
 ======
