@@ -19,14 +19,6 @@ author_profile: true
 
 #### Papers
 
-<div class="publications">
-
-{% for y in page.years %}
-  <div>{{y}}</div>
-  {% bibliography -f publication -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
 
 #### Internaltional Proceedings
 
