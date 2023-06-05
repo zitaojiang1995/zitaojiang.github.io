@@ -1,6 +1,6 @@
 ---
 title: "A literature review of cross ventilation in buildings"
-collection: publications
+#collection: publications
 permalink: /publication/2023_journal2
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-07-15

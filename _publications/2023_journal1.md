@@ -1,6 +1,6 @@
 ---
 title: "Analysis of single-sided ventilation flows of a generic isolated building using particle tracking method in LES simulation"
-collection: publications
+#collection: publications
 permalink: /publication/2023_journal1
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023-05-01
