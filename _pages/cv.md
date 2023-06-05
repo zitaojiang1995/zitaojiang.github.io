@@ -24,11 +24,11 @@ Education
   
 Experience
 ======
-- Dec. 2022-Feb. 2023, Exchange student <br>, Collobration research with Mats Sandberg
-[University of Gävle](https://www.hig.se/Ext/En/University-of-Gavle.html) Gävle, Sweden
+- Dec. 2022-Feb. 2023, Exchange student ,<br> 
+Collobration research with Mats Sandberg, [University of Gävle](https://www.hig.se/Ext/En/University-of-Gavle.html) Gävle, Sweden
 
-- Aug. 2017-Dec. 2017, Exchange student<br>, Architecture
-[The University of Western Australia](https://www.uwa.edu.au/) Perth, Australia
+- Aug. 2017-Dec. 2017, Exchange student,<br> 
+Architecture program, [The University of Western Australia](https://www.uwa.edu.au/) Perth, Australia
 
 Research Interests
 ======
@@ -49,9 +49,9 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ol>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
 
 Hornors and Awards
 ======
@@ -59,14 +59,10 @@ Hornors and Awards
 
 Academic societies
 ======
-[Architectural Institute of Japan](http://www.iis.u-tokyo.ac.jp/~kkmt/profile.html)
-[The Society of Heating, Air-Conditioning and Sanitary Engineers of Japan](http://www.shasej.org/)
-[Japan Association for Wind Engineering](https://www.jawe.jp/en/)
-  
- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+-[Architectural Institute of Japan](http://www.iis.u-tokyo.ac.jp/~kkmt/profile.html)
+
+-[The Society of Heating, Air-Conditioning and Sanitary Engineers of Japan](http://www.shasej.org/)
+
+-[Japan Association for Wind Engineering](https://www.jawe.jp/en/)
   
 
