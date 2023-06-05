@@ -14,6 +14,11 @@ Research Interests
 ======
 My research interest ranges from indoor ventilation to urban scale wind environment and urban ventilation.
 
+Recent news 
+======
+* June, 2023: [AIVC2023](https://aivc2023conference.org/)
+* May 21, 2023: Presentation at [IAQVEC2023](https://www.iaqvec2023.org/)
+
 Education
 ======
 - Oct. 2021-Sep. 2024, Ph.D(Expected). in built environment <br>

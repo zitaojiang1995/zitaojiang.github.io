@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Publications"
 permalink: /publications/
 years: [2023,2022]
