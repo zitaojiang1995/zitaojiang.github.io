@@ -57,10 +57,11 @@ Hornors and Awards
 ======
 - Scholarship of "Support for Pioneering Research Initiated by the Next Generation" 2021-2024
 
-Activity
+Academic societies
 ======
-Student member of Architectural Institute of Japan, Since 2021
-Student member of The Society of Heating, Air-Conditioning and Sanitary Engineers of Japan, Since 2021
+[Architectural Institute of Japan](http://www.iis.u-tokyo.ac.jp/~kkmt/profile.html)
+[The Society of Heating, Air-Conditioning and Sanitary Engineers of Japan](http://www.shasej.org/)
+[Japan Association for Wind Engineering](https://www.jawe.jp/en/)
   
 Teaching
 ======

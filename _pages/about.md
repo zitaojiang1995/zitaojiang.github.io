@@ -25,4 +25,12 @@ Education
 - Oct. 2014-Jun. 2019, Bachelor of Architecutre<br>
 [China University of Mining and Technology](https://global.cumt.edu.cn/) Xuzhou, China
 
+Academic societies
+======
+[Architectural Institute of Japan](http://www.iis.u-tokyo.ac.jp/~kkmt/profile.html)
+[The Society of Heating, Air-Conditioning and Sanitary Engineers of Japan](http://www.shasej.org/)
+[Japan Association for Wind Engineering](https://www.jawe.jp/en/)
 
+Contact
+======
+email:jiang_zitao@arch.eng.osaka-u.ac.jp
