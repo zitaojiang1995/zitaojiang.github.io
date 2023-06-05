@@ -20,15 +20,6 @@ nav: true
 
 #### Papers
 
-<div class="publications">
-
-{% for y in page.years %}
-  <div>{{y}}</div>
-  {% bibliography -f pubs -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
-
 #### Internaltional Proceedings
 
 
