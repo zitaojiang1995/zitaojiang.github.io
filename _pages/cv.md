@@ -63,7 +63,7 @@ Academic societies
 [The Society of Heating, Air-Conditioning and Sanitary Engineers of Japan](http://www.shasej.org/)
 [Japan Association for Wind Engineering](https://www.jawe.jp/en/)
   
-Teaching
+ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}

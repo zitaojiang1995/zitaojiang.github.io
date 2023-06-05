@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 years: [2023,2022]
 author_profile: true
+nav: true
 ---
 [[Google scholar](https://scholar.google.com/citations?user=U0Jtdr4AAAAJ&hl=en) ]|[ [Researchgate](https://www.researchgate.net/profile/Zitao_Jiang2)]
 
