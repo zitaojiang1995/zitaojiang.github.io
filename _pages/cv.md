@@ -59,7 +59,7 @@ Hornors and Awards
 
 Academic societies
 ======
--[Architectural Institute of Japan](http://www.iis.u-tokyo.ac.jp/~kkmt/profile.html)
+-[Architectural Institute of Japan](https://www.aij.or.jp/aijhome.htm)
 
 -[The Society of Heating, Air-Conditioning and Sanitary Engineers of Japan](http://www.shasej.org/)
 
