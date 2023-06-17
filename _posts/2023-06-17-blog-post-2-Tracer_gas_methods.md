@@ -1,5 +1,5 @@
 ---
-title: 'OpenFOAM Learning Notes'
+title: 'Tracer gas method learning notes'
 date: 2023-06-05
 permalink: /posts/2023/06/blog-post-2-Tracer_gas_methods/
 tags:
